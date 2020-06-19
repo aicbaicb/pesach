@@ -1,5 +1,3 @@
-#include <Dusk2Dawn.h>
-
 //Gauss's Pesach calculator variables
 int year = 2021;
 long A = year + 3760; //hebrew year
